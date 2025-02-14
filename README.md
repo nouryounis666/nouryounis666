@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="https://inkedin.com/in/nour-tamer-8033b4267" target="_blank"><img src="https://img.shields.io/badge/-Nour%20Tamer-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/nour-tamer-8033b4267" target="_blank"><img src="https://img.shields.io/badge/-Nour%20Tamer-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/NourYounis666" target="_blank"><img src="https://img.shields.io/badge/-Nour%20Tamer-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
