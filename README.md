@@ -9,7 +9,7 @@
 
 I am a software engineer specializing in bridging the gap between robust enterprise architecture and intelligent automation. By combining strong backend development skills in ASP.NET Core with multi-agent workflow automation using n8n and LLMs, I build scalable systems that reduce manual workload and solve complex business problems.
 
-Currently pursuing a B.Sc. in Computer Science & Information Technology at Egyptian E-Learning University (EELU) while executing freelance digital solutions on platforms like Nafazly and Khamsat.
+Currently pursuing a B.Sc. in Computer Science & Information Technology at Egyptian E-Learning University (EELU) while executing freelance digital solutions on platforms like Nafezly and Khamsat.
 
 ---
 
@@ -46,7 +46,7 @@ Currently pursuing a B.Sc. in Computer Science & Information Technology at Egypt
 ### 🏆 Featured Projects
 
 - **[Full HR Automated System (NourFlow HR)](https://github.com/nouryounis666/Full-HR-Automated-System):** An enterprise-grade, autonomous HR recruitment and intelligent screening suite. Orchestrates end-to-end hiring workflows featuring automated applicant intake, multi-agent AI CV scoring, error handling, and a RAG-powered policy assistant built using self-hosted n8n, Docker, and Oracle Cloud.
-- **[Pharmacy Alert System](https://github.com/nouryounis666/pharmacy-refill-automation):** An automated n8n pipeline built for a real-world client on Nafazly. It manages patient inventory cycles, sends 48-hour refill alerts via Telegram and Gmail, and auto-updates Google Sheets.
+- **[Pharmacy Alert System](https://github.com/nouryounis666/pharmacy-refill-automation):** An automated n8n pipeline built for a real-world client on Nafezly. It manages patient inventory cycles, sends 48-hour refill alerts via Telegram and Gmail, and auto-updates Google Sheets.
 - **[Rafek AlQuran AI Bot](https://github.com/nouryounis666/rafek-ai-quran-evaluator):** An intelligent Telegram bot built with n8n and Gemini 3.5 Flash that evaluates Quran recitation through voice notes and corrects Harakat and word accuracy dynamically.
 - **[Tagerly](https://github.com/nouryounis666/Tagerly):** A full-stack e-commerce marketplace for handmade products built with ASP.NET Core MVC, Entity Framework Core, SQL Server, and JWT Authentication (DEPI Capstone).
 
