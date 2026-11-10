@@ -45,10 +45,10 @@ Currently pursuing a B.Sc. in Computer Science & Information Technology at Egypt
 
 ### 🏆 Featured Projects
 
-* **[Pharmacy Alert System](https://github.com/nouryounis666/pharmacy-refill-automation):** An automated n8n pipeline built for a real-world client on Nafazly. It manages patient inventory cycles, sends 48-hour refill alerts via Telegram and Gmail, and auto-updates Google Sheets.
-* **[Rafek AlQuran AI Bot](https://github.com/nouryounis666/rafek-ai-quran-evaluator):** An intelligent Telegram bot built with n8n and Gemini 3.5 Flash that evaluates Quran recitation through voice notes and corrects Harakat and word accuracy dynamically.
-* **[Multi-Agent Recruitment System](https://github.com/nouryounis666/recruitment-system):** An end-to-end HR screening system parsing PDF CVs via OCR and evaluating candidates against job specs using LLMs.
-* **[Tagerly](https://github.com/nouryounis666/Tagerly):** A full-stack e-commerce marketplace for handmade products built with ASP.NET Core MVC, Entity Framework Core, SQL Server, and JWT Authentication (DEPI Capstone).
+- **[Full HR Automated System (NourFlow HR)](https://github.com/nouryounis666/Full-HR-Automated-System):** An enterprise-grade, autonomous HR recruitment and intelligent screening suite. Orchestrates end-to-end hiring workflows featuring automated applicant intake, multi-agent AI CV scoring, error handling, and a RAG-powered policy assistant built using self-hosted n8n, Docker, and Oracle Cloud.
+- **[Pharmacy Alert System](https://github.com/nouryounis666/pharmacy-refill-automation):** An automated n8n pipeline built for a real-world client on Nafazly. It manages patient inventory cycles, sends 48-hour refill alerts via Telegram and Gmail, and auto-updates Google Sheets.
+- **[Rafek AlQuran AI Bot](https://github.com/nouryounis666/rafek-ai-quran-evaluator):** An intelligent Telegram bot built with n8n and Gemini 3.5 Flash that evaluates Quran recitation through voice notes and corrects Harakat and word accuracy dynamically.
+- **[Tagerly](https://github.com/nouryounis666/Tagerly):** A full-stack e-commerce marketplace for handmade products built with ASP.NET Core MVC, Entity Framework Core, SQL Server, and JWT Authentication (DEPI Capstone).
 
 ---
 
